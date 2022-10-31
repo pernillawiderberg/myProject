@@ -27,3 +27,8 @@ main {
 
 }
 
+.main-content {
+    padding: 48px;
+    background-color: greenyellow;
+    width: 50%;
+}
