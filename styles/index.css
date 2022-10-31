@@ -27,6 +27,11 @@ main {
 
 }
 
+.highlight {
+    color: #8fb339;
+    font-size: 2em;
+}
+
 .main-content {
     padding: 48px;
     background-color: greenyellow;
